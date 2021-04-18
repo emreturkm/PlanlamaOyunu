@@ -18,7 +18,7 @@ namespace PlanlamaOyunu.SqlQuerys
         List<Talep> prTlplr = new List<Talep>();
 
         /*
-         * ÜRÜN SORGULARI
+         * ÜRÜN SORGULARI 
          */
         public List<Urun> getUrunByUrunOnay(bool onay)
         {
