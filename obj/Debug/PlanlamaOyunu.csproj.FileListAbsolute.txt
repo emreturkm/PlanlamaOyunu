@@ -1,0 +1,13 @@
+C:\Users\emret\source\repos\PlanlamaOyunu\bin\Debug\PlanlamaOyunu.exe.config
+C:\Users\emret\source\repos\PlanlamaOyunu\bin\Debug\PlanlamaOyunu.exe
+C:\Users\emret\source\repos\PlanlamaOyunu\bin\Debug\PlanlamaOyunu.pdb
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.csprojAssemblyReference.cache
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.Properties.Resources.resources
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.csproj.GenerateResource.cache
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.exe
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.pdb
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.GirisKayitFrm.resources
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.Forms.AliciMenuFrm.resources
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.Forms.AdminMenuFrm.resources
+C:\Users\emret\source\repos\PlanlamaOyunu\obj\Debug\PlanlamaOyunu.Forms.SaticiMenuFrm.resources
